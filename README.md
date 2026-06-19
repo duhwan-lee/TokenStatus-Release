@@ -6,11 +6,13 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 ## 다운로드
 
+최신 빌드는 **[Releases](https://github.com/duhwan-lee/TokenStatus-Release/releases/latest)** 에서 받으세요 (Apple Silicon).
+
 | 버전 | 파일 |
 |---|---|
-| 0.1.0 | [`TokenStatus-0.1.0.dmg`](TokenStatus-0.1.0.dmg) (Apple Silicon) |
+| 0.1.0 | [TokenStatus-0.1.0.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.1.0/TokenStatus-0.1.0.dmg) |
 
-> Releases 탭에도 동일한 DMG가 첨부되어 있습니다.
+> DMG는 레포에 직접 두지 않고 Release asset으로만 관리합니다.
 
 ## 설치
 
