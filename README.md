@@ -2,6 +2,10 @@
 
 Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표시하는 앱의 배포 빌드.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="TokenStatus 메뉴바 스크린샷" width="380">
+</p>
+
 ## 다운로드
 
 최신 빌드는 **[Releases](https://github.com/duhwan-lee/TokenStatus-Release/releases/latest)** 에서 받으세요 (Apple Silicon).
