@@ -12,6 +12,7 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 | 버전 | 파일 |
 |---|---|
+| 0.2.0 (최신) | [TokenStatus-0.2.0.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.0/TokenStatus-0.2.0.dmg) |
 | 0.1.0 | [TokenStatus-0.1.0.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.1.0/TokenStatus-0.1.0.dmg) |
 
 > DMG는 레포에 직접 두지 않고 Release asset으로만 관리합니다.
