@@ -12,7 +12,8 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 | 버전 | 파일 |
 |---|---|
-| 0.2.1 (최신) | [TokenStatus-0.2.1.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.1/TokenStatus-0.2.1.dmg) |
+| 0.2.2 (최신, 공증) | [TokenStatus-0.2.2.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.2/TokenStatus-0.2.2.dmg) |
+| 0.2.1 | [TokenStatus-0.2.1.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.1/TokenStatus-0.2.1.dmg) |
 | 0.2.0 | [TokenStatus-0.2.0.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.0/TokenStatus-0.2.0.dmg) |
 | 0.1.0 | [TokenStatus-0.1.0.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.1.0/TokenStatus-0.1.0.dmg) |
 
@@ -20,14 +21,11 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 ## 설치
 
-1. `TokenStatus-0.1.0.dmg` 를 열고 `TokenStatus.app` 을 `Applications` 로 드래그.
-2. 서명/공증이 없어 Gatekeeper가 첫 실행을 막으므로 **1회만** 우회:
-   ```bash
-   xattr -dr com.apple.quarantine /Applications/TokenStatus.app
-   open /Applications/TokenStatus.app
-   ```
-   (또는 시스템 설정 ▸ 개인정보 보호 및 보안 ▸ "확인 없이 열기")
+1. 최신 DMG를 열고 `TokenStatus.app` 을 `Applications` 로 드래그.
+2. **더블클릭으로 실행** — 0.2.2부터 Apple 공증(notarized)이 적용되어 별도 우회 없이 바로 열립니다.
 3. 메뉴바 우측 상단에 사용량이 표시됩니다.
+
+> 0.2.1 이하는 미공증이라 첫 실행 시 `xattr -dr com.apple.quarantine /Applications/TokenStatus.app` 우회가 필요합니다.
 
 ## 동작 전제 (각자 본인 계정 기준, 안 된 항목은 N/A)
 
