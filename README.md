@@ -12,7 +12,8 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 | 버전 | 파일 |
 |---|---|
-| 0.2.6 (최신, 공증) | [TokenStatus-0.2.6.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.6/TokenStatus-0.2.6.dmg) |
+| 0.2.7 (최신, 공증) | [TokenStatus-0.2.7.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.7/TokenStatus-0.2.7.dmg) |
+| 0.2.6 (공증) | [TokenStatus-0.2.6.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.6/TokenStatus-0.2.6.dmg) |
 | 0.2.5 (공증) | [TokenStatus-0.2.5.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.5/TokenStatus-0.2.5.dmg) |
 | 0.2.4 (공증) | [TokenStatus-0.2.4.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.4/TokenStatus-0.2.4.dmg) |
 | 0.2.3 (공증) | [TokenStatus-0.2.3.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.3/TokenStatus-0.2.3.dmg) |
