@@ -1,6 +1,6 @@
 # TokenStatus — Release
 
-Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표시하는 앱의 배포 빌드.
+Claude · GPT(Codex) · Gemini · Antigravity의 **잔여 사용량**을 macOS 메뉴바에 표시하는 앱의 배포 빌드.
 
 <p align="center">
   <img src="docs/screenshot.png" alt="TokenStatus 메뉴바 스크린샷" width="380">
@@ -12,7 +12,8 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 | 버전 | 파일 |
 |---|---|
-| 0.2.9 (최신, 공증) | [TokenStatus-0.2.9.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.9/TokenStatus-0.2.9.dmg) |
+| 0.2.10 (최신, 공증) | [TokenStatus-0.2.10.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.10/TokenStatus-0.2.10.dmg) |
+| 0.2.9 (공증) | [TokenStatus-0.2.9.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.9/TokenStatus-0.2.9.dmg) |
 | 0.2.8 (공증) | [TokenStatus-0.2.8.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.8/TokenStatus-0.2.8.dmg) |
 | 0.2.7 (공증) | [TokenStatus-0.2.7.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.7/TokenStatus-0.2.7.dmg) |
 | 0.2.6 (공증) | [TokenStatus-0.2.6.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.6/TokenStatus-0.2.6.dmg) |
@@ -38,7 +39,10 @@ Claude · GPT(Codex) · Gemini의 **잔여 사용량**을 macOS 메뉴바에 표
 
 - **Claude** : Claude Code 로그인 (첫 키체인 팝업에서 "항상 허용")
 - **GPT** : Codex CLI(`codex`) 설치 + 로그인 (앱이 `codex app-server`로 라이브 조회)
-- **Gemini** : 메뉴바 드롭다운에서 "Antigravity 로그인" 1회 (브라우저 동의). `agy` 설치 불필요 — 앱이 자체 로그인.
+- **Gemini** (앱 한도) : 드롭다운 Gemini 카드에서 "Google 로그인" 1회 (앱 안 로그인 창). Chrome/Safari 쿠키는 읽지 않으며, 세션은 앱 전용 키체인 항목에만 저장됩니다.
+- **Antigravity** : 드롭다운에서 "Antigravity 로그인" 1회 (브라우저 동의). `agy` 설치 불필요 — 앱이 자체 로그인.
+
+> 0.2.9까지의 "Gemini" 표시는 실제로 Antigravity 한도였습니다. 0.2.10부터 Gemini 앱 한도(G)와 Antigravity 한도(A)를 따로 보여줍니다.
 
 ## 요구 사항
 
