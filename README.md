@@ -12,7 +12,8 @@ Claude · GPT(Codex) · Gemini · Antigravity의 **잔여 사용량**을 macOS �
 
 | 버전 | 파일 |
 |---|---|
-| 0.2.10 (최신, 공증) | [TokenStatus-0.2.10.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.10/TokenStatus-0.2.10.dmg) |
+| 0.2.11 (최신, 공증) | [TokenStatus-0.2.11.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.11/TokenStatus-0.2.11.dmg) |
+| 0.2.10 (공증) | [TokenStatus-0.2.10.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.10/TokenStatus-0.2.10.dmg) |
 | 0.2.9 (공증) | [TokenStatus-0.2.9.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.9/TokenStatus-0.2.9.dmg) |
 | 0.2.8 (공증) | [TokenStatus-0.2.8.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.8/TokenStatus-0.2.8.dmg) |
 | 0.2.7 (공증) | [TokenStatus-0.2.7.dmg](https://github.com/duhwan-lee/TokenStatus-Release/releases/download/v0.2.7/TokenStatus-0.2.7.dmg) |
